@@ -1,0 +1,6 @@
+{
+  "name": "Dani collecting",
+  "description": "A colorful collecting game for kids with 3 fun levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
